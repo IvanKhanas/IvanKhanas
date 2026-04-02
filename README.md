@@ -4,7 +4,11 @@
 
 ### [AltLinux](https://packages.altlinux.org/en/sisyphus/maintainers/xeno) Java Maintainer
 
-## Contribution Snake
+## 📈
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=IvanKhanas&theme=tokyo-night&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+## 🐍
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/IvanKhanas/IvanKhanas/output/github-contribution-grid-snake-dark.svg" />
