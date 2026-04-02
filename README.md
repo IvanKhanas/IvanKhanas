@@ -1,8 +1,8 @@
 # Hi there, I'm Ivan Khanas 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&width=700&lines=ALT+Linux+Java+Software+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&width=700&lines=Java+Software+Developer)](https://git.io/typing-svg)
 
-### [AltLinux](https://packages.altlinux.org/en/sisyphus/maintainers/xeno) Java Maintainer
+### [AltLinux](https://packages.altlinux.org/en/sisyphus/maintainers/xeno) Maintainer
 
 ## 📈
 
