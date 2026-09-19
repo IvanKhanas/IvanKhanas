@@ -1,5 +1,5 @@
-## Hi there 👋
-
+  ### 👉 Moved to **[@ikxeno](https://github.com/ikxeno)**
+  ### Аккаунт переехал на **[@ikxeno](https://github.com/ikxeno)**
 <!--
 **IvanKhanas/IvanKhanas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
